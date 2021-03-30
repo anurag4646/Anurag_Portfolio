@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Scientist Portfolio on Anurag Joshi</title>
+    <link>https://anurag4646.github.io/Anurag_Portfolio/fr/</link>
+    <description>Recent content in Data Scientist Portfolio on Anurag Joshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://anurag4646.github.io/Anurag_Portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HR Analytics: Job Change of Data Scientists</title>
+      <link>https://anurag4646.github.io/Anurag_Portfolio/fr/post/project1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://anurag4646.github.io/Anurag_Portfolio/fr/post/project1/</guid>
+      <description>A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company. Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://anurag4646.github.io/Anurag_Portfolio/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anurag4646.github.io/Anurag_Portfolio/fr/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Website: https://anuragjoc.blogspot.com/   Twitter: https://twitter.com/AnuragJoc   LinkedIn: https://www.linkedin.com/in/jocanu/   GitHub: https://github.com/anurag4646    </description>
+    </item>
+    
+  </channel>
+</rss>
